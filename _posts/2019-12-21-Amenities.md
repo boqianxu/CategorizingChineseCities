@@ -1,6 +1,6 @@
 ---
 title: "2. Mapping Amenity Value of Chinese cities"
-date: 2020-12-19
+date: 2020-12-21
 published: true
 tags: 
 excerpt: "This section examines amenities with OSM data."
