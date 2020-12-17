@@ -19,5 +19,3 @@ A template for including data visualizations in a Jekyll-powered blog with Githu
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boqianxu/CategorizingChineseCities/HEAD?filepath=Final_boqian%20xu_3.ipynb)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/boqianxu/CategorizingChineseCities/HEAD?filepath=Final_boqian%20xu_3.ipynb
