@@ -4,9 +4,8 @@ date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Github Page
-  - update
 ---
+Background, question, method, and data.
 
 **Research Context and Research Question:**
 
@@ -19,14 +18,6 @@ This interactive webpage project visualizes and analyzes the urban and natural c
 
 **Data Source:**
 
-- Administrative boundary (.shp): RESDC: http://www.resdc.cn/data.aspx?DATAID=201 
+- Administrative boundary (.shp): RESDC: (http://www.resdc.cn/data.aspx?DATAID=201)
 - Amenity: OpenStreetMap
 - Land cover:	Earth Engine: https://developers.google.com/earth-engine/datasets/catalog/ESA_GLOBCOVER_L4_200901_200912_V2_3
-
-
-```python
-def print_message(message):
-  print(message)
-
-print_message("Welcome to GitHub Pages")
-```
