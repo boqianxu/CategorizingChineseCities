@@ -1,5 +1,5 @@
 ---
-title: "3 Clustering Analysis"
+title: "3. Clustering Analysis"
 date: 2020-12-21
 published: true
 tags: 
