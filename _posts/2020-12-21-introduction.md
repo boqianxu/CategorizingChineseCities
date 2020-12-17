@@ -20,4 +20,4 @@ This interactive webpage project visualizes and analyzes the urban and natural c
 
 - Administrative boundary (.shp): RESDC: (http://www.resdc.cn/data.aspx?DATAID=201)
 - Amenity: OpenStreetMap
-- Land cover:	Earth Engine: https://developers.google.com/earth-engine/datasets/catalog/ESA_GLOBCOVER_L4_200901_200912_V2_3
+- Land cover:	Earth Engine: (https://developers.google.com/earth-engine/datasets/catalog/ESA_GLOBCOVER_L4_200901_200912_V2_3)
