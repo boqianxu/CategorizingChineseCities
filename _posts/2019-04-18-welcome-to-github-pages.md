@@ -1,5 +1,5 @@
 ---
-title: "Welcome to GitHub Pages!"
+title: "Introduction"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
@@ -8,15 +8,21 @@ tags:
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and commit your changes to to the repository. GitHub will automatically rebuild your site. Wait a few minutes and then refresh the site link to see the new changes. There are three main ways to make changes to your site:
+**Research Context and Research Question:**
 
-- Edit files within your in the browser at GitHub.com
-- Use a third party GitHub content editor, like [Prose by Development Seed](https://prose.io).
-- Clone down your repository and make updates locally, then push them to your GitHub repository.
+China has one of the world’s most diverse territory with various urban and natural resources that are unevenly distributed across the country. Many people agree that the east coast provides abundant amenities for the residents while the west is primarily protected for the wild. However, visualization and analysis on the regional disparity, particularly on open-source media, is still insufficient in existing studies. How to categorize the livability of hundreds of cities in China from the perspectives of amenity and ecology?
 
-**To add new posts:** Add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+**Research Method:** 
 
-Jekyll also offers powerful support for code snippets:
+This interactive webpage project visualizes and analyzes the urban and natural conditions of the 371 cities in China with the OSM data of amenity and raster datasets of land cover. The central scheme of the study is clustering all the Chinese counties based on the values of public amenity and ecological service. First, the project uses the land cover maps from Google Earth Engine Data Catalog to calculate the ESV, Ecosystem Service Value, of each city. Second, The amenity data from Open Street Map will be mapped and spatial-joined to the 371 cities. The last step of the project is categorizing the 371 cities by the K-means clustering analysis.
+
+
+**Data Source:**
+
+- Administrative boundary (.shp): RESDC: http://www.resdc.cn/data.aspx?DATAID=201 
+- Amenity: OpenStreetMap
+- Land cover:	Earth Engine: https://developers.google.com/earth-engine/datasets/catalog/ESA_GLOBCOVER_L4_200901_200912_V2_3
+
 
 ```python
 def print_message(message):
@@ -24,9 +30,3 @@ def print_message(message):
 
 print_message("Welcome to GitHub Pages")
 ```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
