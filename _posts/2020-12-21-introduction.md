@@ -1,11 +1,11 @@
 ---
 title: "Introduction"
-date: 2020-12-21T00:00:00-04:00
+date: 2020-12-21T00:04:00-04:00
 categories:
   - blog
+excerpt: "Background, question, method, and data."
 tags:
 ---
-Background, question, method, and data.
 
 **Research Context and Research Question:**
 
