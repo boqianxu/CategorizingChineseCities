@@ -1,6 +1,6 @@
 ---
 title: "#2. Mapping Amenity Value"
-date: 2020-12-21
+date: 2020-12-21T00:02:00-04:00
 published: true
 tags: 
 excerpt: "This section examines amenities with OSM data."
