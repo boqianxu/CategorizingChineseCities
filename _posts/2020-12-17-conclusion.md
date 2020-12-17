@@ -1,11 +1,11 @@
 ---
 title: "Conclusion"
-date: 2020-12-21
+date: 2020-12-17
+excerpt: "Results and discussion."
 categories:
   - blog
 tags:
 ---
-Background, question, method, and data.
 
 **Research Context and Research Question:**
 
