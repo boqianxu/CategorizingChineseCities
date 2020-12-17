@@ -1,6 +1,6 @@
 ---
 title: "Conclusion"
-date: 2020-12-17
+date: 2020-12-21
 excerpt: "Results and discussion."
 categories:
   - blog
