@@ -1,8 +1,8 @@
 ---
 title: "3. Clustering Analysis"
-date: 2019-04-13
+date: 2020-12-21
 published: true
-tags: [dataviz, altair, hvplot, holoviews]
+tags: 
 excerpt: "This section categorizes the cities based on ESV and Amenity Value."
 altair-loader:
   altair-chart-1: "charts/Clusters_altair.json"
@@ -20,7 +20,6 @@ Lastly, this research categorized the 371 cities into six categories (five by K-
 
 <div id="altair-chart-1"></div>
 
-This was produced using Altair and embedded in this static web page. Note that you can also display Python code on this page:
 
 ```python
 import altair as alt
