@@ -1,6 +1,6 @@
 ---
 title: "3 Clustering Analysis"
-date: 2020-20-18
+date: 2020-20-21
 published: true
 tags: 
 excerpt: "This section categorizes the cities based on ESV and Amenity Value."
