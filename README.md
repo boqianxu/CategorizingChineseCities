@@ -16,6 +16,8 @@ A template for including data visualizations in a Jekyll-powered blog with Githu
 - Publish a post
   - Posts are written in Markdown and any files added to the `_posts` directory will be automatically uploaded and published
   - Useful resource: [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/)
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boqianxu/CategorizingChineseCities/HEAD?filepath=Final_boqian%20xu_3.ipynb)
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/boqianxu/CategorizingChineseCities/HEAD?filepath=Final_boqian%20xu_3.ipynb
