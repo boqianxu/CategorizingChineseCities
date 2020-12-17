@@ -1,5 +1,5 @@
 ---
-title: "2. Mapping Amenity Value of Chinese cities"
+title: "#2. Mapping Amenity Value"
 date: 2020-12-21
 published: true
 tags: 
